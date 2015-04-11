@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words
+Git branches allow you to create a separate workflow/ series of commits that can later be merged with the master (or other) branches.
+It provides a solution to simultaneously working on multiple parts of a project and allows testing without impacting the master branch which will likely represent the core, most stable status of your project
