@@ -1,1 +1,3 @@
-Explain what the 'upstream'remote is usually used for, in your own words
+Git upstream is best understood in the context of forks where there is an 'master' repository version and then your own fork
+The fork is your 'origin' repository and the 'upstream' is the master remote repository you ultimately want to push too
+Upstream remotes are a way to have your local fork tracked and ultimately pushed through a pull request to the master repository
