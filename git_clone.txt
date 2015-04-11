@@ -1,1 +1,4 @@
-Explain what git clone does, in your own words
+Git clone replicates a remote, online repository from Github in your local desktop
+It creates a remote that can push too
+Interestingly, when you clone an empty repository (e.g. Octocat) after you commit you get a message of "Your branch is based on 'origin/master', but the upstream is gone
+To solve this, you have to 'git push origin/master' so that establishes a master branch in the remote repository that wouldn't have existed before due to it being empty
